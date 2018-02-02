@@ -1,5 +1,5 @@
 {
-  "event/types" : [
+  "event-types" : [
     {
       "id" : 1,
       "title" : "birthday"
