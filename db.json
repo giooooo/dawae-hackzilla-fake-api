@@ -2,7 +2,27 @@
   "events" : [
     {
       "id" : 1,
-      "title" : "Wedding"
+      "title" : "birthday"
+    },
+    {
+      "id" : 2,
+      "title" : "conference"
+    },
+    {
+      "id" : 3,
+      "title" : "debut"
+    },
+    {
+      "id" : 4,
+      "title" : "hackathon"
+    },
+    {
+      "id" : 5,
+      "title" : "seminar"
+    },
+    {
+      "id" : 6,
+      "title" : "wedding"
     }
   ]
 }
